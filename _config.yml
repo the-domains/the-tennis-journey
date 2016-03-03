@@ -1,0 +1,28 @@
+name: The Tennis Journey
+favicon: null
+layout_spectrum: 0.9672086602076888
+typography_spectrum: 0.7601833203807473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9951795272063464
+  lightness: 0.10362053685821593
+  saturation: 0.49144803755916655
+  rhythmicContrast: 0.10871289460919797
+purpose: []
